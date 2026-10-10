@@ -1,0 +1,4 @@
+# example-tool.ong
+echo "Hello from example-tool!"
+echo "Running on: $USER"
+neofetch

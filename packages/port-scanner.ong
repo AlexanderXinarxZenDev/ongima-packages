@@ -1,0 +1,4 @@
+# port-scanner.ong
+echo "Hello from port-scanner!"
+echo "Running on: $USER"
+neofetch
